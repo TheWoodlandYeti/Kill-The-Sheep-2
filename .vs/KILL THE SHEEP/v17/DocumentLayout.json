@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\scripts\\pausemenuself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenuself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\scripts\\timertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|e:\\pesonal\\projects\\portfolio\\site files\\kill the sheep\\kill the sheep - unity files\\kill the sheep\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BD3DC1-4842-8236-198D-A60EB5D05E0F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:42:20.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAIwA4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:25:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerTest.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\TimerTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimerTest.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\TimerTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimerTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:22:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemManager.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\ItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:58:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:32:12.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:32:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenuSelf.cs",
+              "DocumentMoniker": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\PauseMenuSelf.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenuSelf.cs",
+              "ToolTip": "E:\\pesonal\\Projects\\Portfolio\\Site Files\\Kill The Sheep\\Kill The Sheep - Unity Files\\KILL THE SHEEP\\Assets\\Scripts\\PauseMenuSelf.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenuSelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:10:24.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
